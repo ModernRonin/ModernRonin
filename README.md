@@ -19,6 +19,12 @@ Here are some ideas to get you started:
 - Modern
   >Fortunately, these days software craftsmen are needed more than warriors ;P
 
+
+# 📝
+If you're interested in assorted tips and thoughts about software development, check out my [blog](https://modernronin.github.io/).
+
+# 📊
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ModernRonin&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ModernRonin&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
