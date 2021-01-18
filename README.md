@@ -13,11 +13,11 @@ Here are some ideas to get you started:
 -->
 # 👤
 - Ronin 
-  > A samurai without master
+  > A samurai **without master**
 - Samurai
-  >A warrior viewing skill as honor
+  > A warrior seeing **skill as the base of honor**
 - Modern
-  >Fortunately, these days software craftsmen are needed more than warriors ;P
+  > Fortunately, these days **software craftsmen** are needed more than warriors ;P
 
 
 # 📝
